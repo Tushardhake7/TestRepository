@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestProjectApplication {
 
 	public static void main(String[] args) {
+		System.out.println("ncdjvdnlkvdmmv");
+		System.out.println("ncdjvdnlkvdmmv");
+		System.out.println("ncdjvdnlkvdmmv");
 		SpringApplication.run(TestProjectApplication.class, args);
 	}
 
